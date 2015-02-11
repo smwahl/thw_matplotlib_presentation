@@ -1,0 +1,4 @@
+http://127.0.0.1:9044/notebooks/48-themes-for-your-ipython-notebook.ipynb tomorrow-dark
+
+ipython notebook --profile=tomorrow-dark
+ipython notebook --profile=default-dark
