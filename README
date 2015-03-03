@@ -1,0 +1,6 @@
+Ipython notebook for a demonstration of matplotlib capabilities for "The Hacker
+Within" talk at U.C. Berkeley, on March 4, 2015.
+
+Usage:
+
+    > ipython notebook
