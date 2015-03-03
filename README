@@ -1,6 +1,14 @@
 Ipython notebook for a demonstration of matplotlib capabilities for "The Hacker
 Within" talk at U.C. Berkeley, on March 4, 2015.
 
+The code examples require Python 2 with the following packages:
+    * matplotlib
+    * numpy
+    * ipython
+    * basemap (optional)
+
 Usage:
 
     > ipython notebook
+
+
